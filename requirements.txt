@@ -10,7 +10,6 @@ feedparser
 future
 geopy
 git+https://github.com/starry69/python-markdown2.git
-#googletrans
 google_trans_new
 humanize
 jikanpy
@@ -33,4 +32,4 @@ telethon
 ujson
 wikipedia
 zalgo-text
-git+https://github.com/SibylSystem/SibylSystem.git
+git+https://github.com/SibylSystem/sibyl-system-py.git
