@@ -33,4 +33,4 @@ telethon
 ujson
 wikipedia
 zalgo-text
-SibylSystem
+git+https://github.com/SibylSystem/SibylSystem.git
